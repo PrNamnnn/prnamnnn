@@ -9,9 +9,8 @@
 <br />
 
 <p align="center">
-  Data Science student focused on AI, machine learning, and full stack development.<br />
-  Currently learning deep learning, LLM applications, and system design.<br />
-  I care about building software that is useful, fast, and quietly beautiful.
+ Learning never really ends.<br />
+Neither does rewriting the same project for the third time.
 </p>
 
 <br />
