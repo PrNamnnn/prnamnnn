@@ -20,10 +20,13 @@
   <a href="mailto:naman.prabhakar2007@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/naman-prabhakar/">
+  <a href="https://github.com/PrNamnnn">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/namanprabhakar/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://namanprabhakar.github.io/Portfolio/">
+  <a href="https://PrNamnnn.github.io/Portfolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white">
   </a>
 </div>
@@ -88,26 +91,23 @@ Creating polished developer experiences
 
 <div align="center">
 
-<img alt="Naman's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NamanPrabhakar&show_icons=true&hide_border=true&title_color=111111&text_color=3f3f46&icon_color=111111&bg_color=ffffff" />
 
 <br />
 
-<img alt="Naman's GitHub streak" src="https://streak-stats.demolab.com?user=NamanPrabhakar&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=3f3f46&dates=71717a" />
+<img alt="Naman's GitHub streak" src="https://streak-stats.demolab.com?user=PrNamnnn&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=3f3f46&dates=71717a" />
 
 <br />
-
-<img alt="Naman's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPrabhakar&layout=compact&hide_border=true&title_color=111111&text_color=3f3f46&bg_color=ffffff" />
 
 </div>
-
-<br />
 
 ## Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/naman-prabhakar/">LinkedIn</a>
+  <a href="https://github.com/PrNamnnn">GitHub</a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://namanprabhakar.github.io/Portfolio/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/namanprabhakar/">LinkedIn</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://PrNamnnn.github.io/Portfolio/">Portfolio</a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="mailto:naman.prabhakar2007@gmail.com">Email</a>
 </p>
@@ -119,3 +119,4 @@ Creating polished developer experiences
 *"Great software is built with patience and craftsmanship."*
 
 </div>
+
