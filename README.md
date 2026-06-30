@@ -2,7 +2,6 @@
 
 # Hello, I'm Naman.
 
-### Building thoughtful software and intelligent systems.
 
 </div>
 
